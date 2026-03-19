@@ -1,6 +1,8 @@
 # FinOps Operating System
+## 🔁 Closed-Loop FinOps Model
 
-A system-level approach to cloud cost governance that connects detection, action, and economic modeling into a closed-loop decision system.
+Detection → Action → Economics → Strategy → Decision
+A system-level FinOps architecture that connects detection, action, and economic modeling into a closed-loop decision system.
 
 ## Architecture
 
@@ -9,10 +11,21 @@ Action Layer → routes insights to owners (Jira, workflows)
 Economics Layer → models cost behavior and unit economics
 Strategy Layer → supports forecasting, planning, and investment decisions
 
+### Flow
+
+```text
+[ Detection ] → [ Action ] → [ Economics ] → [ Strategy ] → [ Decision ]
+
 ## Repositories
 
-* reveal-finops-lab → Detection layer
-* driver-based-finops-modeling-engine → Economics layer
+
+---
+
+
+
+
+- [reveal-finops-lab](https://github.com/drchristinee1/reveal-finops-lab) → Detection layer  
+- [driver-based-finops-modeling-engine](https://github.com/drchristinee1/driver-based-finops-modeling-engine) → Economics layer  
 
 ## Goal
 
@@ -31,3 +44,21 @@ Example of how cost drivers and unit economics are represented:
 
 Full example:
 👉 sample-output/example_output.json
+
+
+## ✅ Use Cases
+
+- Detect cost anomalies and route ownership  
+- Identify idle resources and optimization opportunities  
+- Model cost behavior under growth scenarios  
+- Support forecasting, budgeting, and commitment planning  
+- Translate infrastructure usage into unit economics  
+
+---
+
+## 👥 Who This Is For
+
+- FinOps teams  
+- Cloud engineers  
+- Finance partners  
+- Technology leaders  
