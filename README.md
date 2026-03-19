@@ -12,6 +12,7 @@ Economics Layer → models cost behavior and unit economics
 Strategy Layer → supports forecasting, planning, and investment decisions
 
 ### Flow
+## End-to-End Flow
 ```text
 [ Detection ] → [ Action ] → [ Economics ] → [ Strategy ] → [ Decision ]
 
