@@ -18,6 +18,9 @@ Strategy Layer → supports forecasting, planning, and investment decisions
 
 ## Repositories
 
+
+## Repositories
+
 - [reveal-finops-lab](https://github.com/drchristinee1/reveal-finops-lab) → Detection layer  
 - [driver-based-finops-modeling-engine](https://github.com/drchristinee1/driver-based-finops-modeling-engine) → Economics layer  
 
