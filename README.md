@@ -15,10 +15,6 @@ Strategy Layer → supports forecasting, planning, and investment decisions
 ```text
 [ Detection ] → [ Action ] → [ Economics ] → [ Strategy ] → [ Decision ]
 
-
-## Repositories
-
-
 ## Repositories
 
 - [reveal-finops-lab](https://github.com/drchristinee1/reveal-finops-lab) → Detection layer  
