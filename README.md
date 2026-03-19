@@ -17,3 +17,17 @@ Strategy Layer → supports forecasting, planning, and investment decisions
 ## Goal
 
 Move FinOps from reporting → operational cost intelligence → decision support.
+## 📊 Sample Output
+
+Example of how cost drivers and unit economics are represented:
+
+```json
+{
+  "scenario_name": "growth_20_percent",
+  "total_cost": 41150,
+  "cost_per_user": 2.05
+}
+```
+
+Full example:
+👉 sample-output/example_output.json
