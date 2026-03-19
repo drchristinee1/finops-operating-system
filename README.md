@@ -21,6 +21,7 @@ Strategy Layer → supports forecasting, planning, and investment decisions
 - [reveal-finops-lab](https://github.com/drchristinee1/reveal-finops-lab) → Detection layer  
 - [finops-action-engine](https://github.com/drchristinee1/finops-action-engine) → Action layer  
 - [driver-based-finops-modeling-engine](https://github.com/drchristinee1/driver-based-finops-modeling-engine) → Economics layer  
+- [finops-assessment-framework](https://github.com/drchristinee1/finops-assessment-framework) → Assessment layer    
 
 ## Goal
 
@@ -56,4 +57,22 @@ Full example:
 - FinOps teams  
 - Cloud engineers  
 - Finance partners  
-- Technology leaders  
+- Technology leaders
+
+- ## What Makes This Different
+
+Most FinOps implementations stop at visibility.
+
+This system connects:
+
+- cost detection  
+- ownership and action  
+- economic modeling  
+- organizational assessment  
+- strategic decision-making  
+
+into a closed-loop operating model.
+
+It enables organizations to move from reactive cost tracking to proactive financial governance.
+
+In addition, the assessment layer provides a structured way to evaluate FinOps maturity, identify gaps, and prioritize improvements—bridging the gap between operational insights and executive decision-making.
