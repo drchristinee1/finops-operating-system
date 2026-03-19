@@ -1,0 +1,27 @@
+{
+  "scenario_name": "growth_20_percent",
+  "cost_drivers": {
+    "compute": {
+      "ec2_hours": 12000,
+      "cost": 24000
+    },
+    "database": {
+      "rds_hours": 8000,
+      "cost": 16000
+    },
+    "storage": {
+      "s3_gb": 50000,
+      "cost": 1150
+    }
+  },
+  "total_cost": 41150,
+  "unit_economics": {
+    "cost_per_user": 2.05,
+    "cost_per_transaction": 0.08
+  },
+  "insights": [
+    "Compute is the primary cost driver",
+    "Storage growth is stable",
+    "Opportunity: EC2 rightsizing"
+  ]
+}
